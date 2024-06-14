@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": "09e7",
+      "fname": "Apple",
+      "lname": "Adam",
+      "dob": "2021-01-13",
+      "grade": "K"
+    },
+    {
+      "id": "a52d",
+      "fname": "Barbie",
+      "lname": "Brian",
+      "dob": "2020-07-06",
+      "grade": "1"
+    },
+    {
+      "id": "5fab",
+      "fname": "Chitta",
+      "lname": "Carl Joes",
+      "dob": "2018-06-29",
+      "grade": "3"
+    },
+    {
+      "id": "eaa2",
+      "fname": "Darren",
+      "lname": "Dang",
+      "dob": "2020-12-24",
+      "grade": "K"
+    },
+    {
+      "id": "e32b",
+      "fname": "Ethan",
+      "lname": "Chan",
+      "dob": "2017-03-30",
+      "grade": "2"
+    }
+  ]
+}
